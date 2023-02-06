@@ -39,13 +39,13 @@ p{
 Sometimes I like to do projects and then post them on the internet for the whole world to benefit!
 here's some examples. 
 
-## [Spatial Data Analysis](https://dsaavedra1210.github.io/mapvisualization/#Visualization/)
+## [Spatial Data Analysis](https://dasaavedra.github.io/mapvisualization/)
 
 - An RMarkdown presentation on the common mistakes made in visualization and how to fix them.
 - Includes a github repo for access to all the code.
 
 
-## [Statistical Plots](http://bl.ocks.org/nstrayer/37a503dd1db369a8f7e3ce21757e19ee)
+## [Breast Cancer Clasification Model with R](https://dasaavedra.github.io/Project2/)
 
-- Interactive plots of things
+- This project is aimed to apply a logistic regression model to predict the diagnostic 
 - I can code!

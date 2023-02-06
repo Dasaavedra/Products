@@ -59,6 +59,9 @@ p{
 
 I regard a fan of the multiple applications of mathematical models and statistics in science and business. For this reason, I choose to focus my knowledge on knowning diferent methods to gain insights from large quantities of information. 
 
+I have experince working with 
+
+
 Working on my Bachellor's degree I foused on the different tools that provided the econometric analysis. Here, I got a solid foundation of the ordinary least square regression model with the different assumtion's assessment and also the implementation panel data. As graduation's disertationa and intership I implemented  differnt time series models including univariate (ARMA, ARIMA, SARIMA) and multivariate models (VAR).
 
 On my Master's degree in the University of Arizona, I went further studying different machine learning algorithms such as logistic regression, k-nearest neighbors, neural nets, naive bayes clasifier and random forest. Everything with the help of Python/R and SQL. As graduaion project, I used two supervised learning models (multinomial logistic regression and a neural network) to predict how effective a government office in Bogota, Colombia, handle complains.   
