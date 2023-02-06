@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   title: "Armando Saavedra"
   left:
-    - text: "About"
+    - text: "Main"
       href: index.html
     - text: "Portfolio"   ##### the new
       href: Project.html  ##### stuff

@@ -13,8 +13,12 @@ h1{
   font-weight: bold;
   border-bottom: solid 1px black;
 }
+h2.title{
+color: navy;
+}
 
 h2{
+  color:#ff0000;
   margin-top: 30px!important;
   margin-bottom: 15px!important;
   padding-top: 0px!important;
@@ -31,10 +35,22 @@ p{
   
 }
   
+  
+  
+/* links */
+a { 
+  color: #50a0b0 ;
+}
+
+a:hover {
+ color: #27445C ; /* darker color when hovering */
+}
 
 ```
 
-# Project
+
+
+# Projects
 
 Sometimes I like to do projects and then post them on the internet for the whole world to benefit!
 here's some examples. 
